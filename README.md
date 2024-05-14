@@ -1,3 +1,5 @@
+# [![LLMOps Syllabus](./resources/banner.svg)](https://insight.paiml.com/a8e "LLMOPs Course")
+
 # Large Language Model Operations (LLMOps) course
 
 * Syllabus for [Artificial Intelligence for Product Innovation](https://ai.meng.duke.edu/degree) Master of Engineering
@@ -198,7 +200,7 @@ final presentation on Week 12.
 
 See the [rubric](./rubric.md) for more details.
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > **Do not build a model yourself**. Reuse a LLM or an SLM model. Use [Mozilla Llamafile](https://github.com/Mozilla-Ocho/llamafile) as a reference.
 
 The primary two resources you will need to build an LLM solution using a local
@@ -208,11 +210,6 @@ API are these:
 1. [Getting Started with Open Source Ecosystem](https://www.coursera.org/learn/open-source-llmops-solutions/home/week/1)
 
 
-#### Individual Project One:   Setup Continuous Integration with Github Actions and Github Codespaces for CLI Prediction Tool
-
-* Build an CLI prediction that uses a pre-trained model only (do not build yourself!)
-* Check solution into Github
-* Create 3-5 minute Demo Video
 
 #### References
 
@@ -221,12 +218,6 @@ API are these:
 * [Refactoring a Python script into a library called by Python Click CLI](https://learning.oreilly.com/videos/refactoring-a-python/04082022VIDEOPAIML/)
 * [TensorFlow Hub](https://www.tensorflow.org/hub)
 * [Classify text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
-
-#### Individual Project Two:  Create an AutoML Solution
-
-* Build an AutoML prediction using some AutoML Technology:  CreateML, Sagemaker Autopilot, Google AutoML, Ludwidg, etc.
-* Check solution into Github
-* Create 3-5 minute Demo Video
 
 #### References
 
