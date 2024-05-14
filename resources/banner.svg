@@ -11,7 +11,7 @@
   </text>
 
   <!-- Rest of the text with Source Sans Pro font -->
-  <text x="5%" y="70%" fill="white" font-size="18" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
+  <text x="5%" y="60%" fill="white" font-size="18" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
     Operationalizing Large Language Models (LLMOPs)
   </text>
   <!-- Smaller text beneath -->
