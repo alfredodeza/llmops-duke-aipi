@@ -9,6 +9,28 @@
 
 In this course, you will learn about the methodologies involved in operationalizing Large Language Models. By the end of the course, you will be able to develop applications that use software development best practices with large language models.
 
+<details>
+  <summary><h2>Table of Contents</h2></summary>
+  <br>
+
+* [Prerequisites](#prerequisites)
+* [Week 1](#week-1-introduction-to-generative-ai-concepts)
+* [Week 2](#week-2-setup-development-environment)
+* [Week 3](#week-3-interacting-with-large-language-models)
+* [Week 4](#week-4-using-local-large-language-models)
+* [Week 5](#week-5-applied-solutions-with-llms)
+* [Week 6](#week-6-extensibility-using-plugins-and-functions)
+* [Week 7](#week-7-using-retrieval-augmented-generation)
+* [Week 8](#week-8-introduction-to-python-web-frameworks-for-apis)
+* [Week 9](#week-9-devops-principles)
+* [Week 10](#week-10-deploying-machine-learning-apis)
+* [Week 11](#week-11-llm-platforms)
+* [Week 12](#week-12-final-presentations)
+
+  
+</details>
+
+
 ## Course Objectives
 
 By the end of the course, you will be able to:
@@ -59,6 +81,7 @@ Courses:
 
 * [Duke+Coursera: Large Language Model Operations (LLMOps) Specialization](https://www.coursera.org/specializations/large-language-model-operations)
 * [Duke+Coursera: MLOps, Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+* [Rust Programming Specialization](https://www.coursera.org/specializations/rust-programming)
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 
 Books:
@@ -70,7 +93,9 @@ Books:
 ## Syllabus
 
 ### Optional Weekly Sync:  Friday, ET TBD Zoom recorded
-* [Contact & Bio](https://datascience.duke.edu/noah-gift)
+
+* [Prof. Noah Gift Contact & Bio](https://datascience.duke.edu/noah-gift)
+* [Prof. Alfredo Deza Contact & Bio](https://ene.duke.edu/faculty/alfredo-deza)
 * [Rubric](./rubric.md)
 
 ## Week by Week Schedule
@@ -92,7 +117,7 @@ Books:
 * [Developing Effective Technical Communication](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/2)
 * [Exploring Cloud Onboarding](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/3)
 
-**Weekly Demo delivery:** Discuss your plan and idea to build out your individual project and how you will do them on time. Use the [Public Speaking](https://github.com/microsoft/workshop-library/tree/main/short/public-speaking) guidelines to make sure you are delivering great demos.
+**Weekly Demo video prompt:** Discuss your plan and idea to build out your individual project and how you will do them on time. Use the [Public Speaking](https://github.com/microsoft/workshop-library/tree/main/short/public-speaking) guidelines to make sure you are delivering great demos.
 
 
 ### Week 2: Setup Development Environment
@@ -108,7 +133,7 @@ Rust:
 * [Setting up your Rust Development
   environment](https://www.coursera.org/learn/rust-fundamentals/home/week/1)
 
-**Weekly Demo delivery:** Describe your programming language choice and what are some of the advantages and potential pitfalls.
+**Weekly Demo video prompt:** Describe your programming language choice and what are some of the advantages and potential pitfalls.
 
 
 ### Week 3: Interacting with Large Language Models
@@ -119,14 +144,14 @@ Rust:
 * [Chapter 1:  Introduction to MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch01.html)
 * [Chapter 2. MLOps Foundations](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch02.html)
 
-**Weekly Demo delivery:** Discuss your plan and idea to build out your individual project and how you will do them on time.
+**Weekly Demo video prompt:** Discuss your plan and idea to build out your individual project and how you will do them on time.
 
 ### Week 4: Using Local Large Language Models
 * [Beginning Llamafile for Local Large Language Models (LLMs)](https://www.coursera.org/learn/llamafile-local-llm)
 * [Getting Started with Open Source Ecosystem](https://www.coursera.org/learn/open-source-llmops-solutions/home/week/1)
 * [Foundations of Local Large Language Models](https://www.coursera.org/learn/local-large-language-models)
 
-**Weekly Demo delivery:** Describe your evaluation of the different Local Large Language and Small Language Models available with Llamafile and which one would work best for your project.
+**Weekly Demo video prompt:** Describe your evaluation of the different Local Large Language and Small Language Models available with Llamafile and which one would work best for your project.
 
 ### Week 5: Applied solutions with LLMs
 * [Local LLMOps](https://www.coursera.org/learn/databricks-to-local-llms/home/week/4)
@@ -136,7 +161,7 @@ Rust:
 * [Open Source Platforms for MLOps-Week3-Deploying Hugging Face](https://www.coursera.org/learn/open-source-mlops-platforms-duke/home/week/3)
 * [Open Source Platforms for MLOps-Week4-Applied Hugging Face](https://www.coursera.org/learn/open-source-mlops-platforms-duke/home/week/4)
 
-**Weekly Demo delivery:** Discuss your plan and idea to build out your individual project and how you will do them on time.
+**Weekly Demo video prompt:** Discuss your plan and idea to build out your individual project and how you will do them on time.
 
 ### Week 6: Extensibility using plugins and functions
 
@@ -144,14 +169,14 @@ Rust:
 * [Applications of LLMs](https://www.coursera.org/learn/intro-gen-ai/home/week/4)
 * [MLOps Platforms: Amazon SageMaker and Azure ML-Week1](https://www.coursera.org/learn/mlops-aws-azure-duke/home/week/1)
 
-**Weekly Demo delivery:** What are some benefits of adding plugins and functions to your application idea? What would be a challenge in a production environment?
+**Weekly Demo video prompt:** What are some benefits of adding plugins and functions to your application idea? What would be a challenge in a production environment?
 
 ### Week 7: Using Retrieval Augmented Generation
 
 * [Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/projects/introduction-to-rag)
 * [Emerging Topics in Machine Learning](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke/home/week/3)
 
-**Weekly Demo delivery:** How would adding RAG to your application affect the overall experience for an end user? Why or why wouldn't you consider using RAG in your application?
+**Weekly Demo video prompt:** How would adding RAG to your application affect the overall experience for an end user? Why or why wouldn't you consider using RAG in your application?
 
 ### Week 8: Introduction to Python web frameworks for APIs
 * [Introduction to FastAPI Framework](https://www.coursera.org/projects/introduction-to-fastapi-framework)
@@ -159,7 +184,7 @@ Rust:
 * [Applied Python for MLOPs](https://www.coursera.com/learn/python-mlops-duke/home/week/5)
 * [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke/home/week/3)
 
-**Weekly Demo delivery:** What are some benefits of using the framework you chose? Describe how you will make it work with your application.
+**Weekly Demo video prompt:** What are some benefits of using the framework you chose? Describe how you will make it work with your application.
 
 ### Week 9: DevOps Principles
 * [Responsible Generative AI](https://www.coursera.org/learn/databricks-to-local-llms/home/week/3)
@@ -167,7 +192,7 @@ Rust:
 * [MLOps Platforms: Amazon SageMaker and Azure ML-Week2](https://www.coursera.org/learn/mlops-aws-azure-duke/home/week/2)
 * [MLOps Platforms: Amazon SageMaker and Azure ML-Week3](https://www.coursera.org/learn/mlops-aws-azure-duke/home/week/3)
 
-**Weekly Demo delivery:** How would you apply DevOps, Responsible AI Principles, and automation for your application? What are some challenges you may face?
+**Weekly Demo video prompt:** How would you apply DevOps, Responsible AI Principles, and automation for your application? What are some challenges you may face?
 
 ### Week 10: Deploying Machine Learning APIs
 
@@ -175,7 +200,7 @@ Rust:
 * [Building an End-to-End LLM application in Azure](https://www.coursera.org/learn/llmops-azure/home/week/4)
 * [Operations](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke/home/week/4)
 
-**Weekly Demo delivery:** What are some difficulties of using automation? How will using automation benefit your application?
+**Weekly Demo video prompt:** What are some difficulties of using automation? How will using automation benefit your application?
 
 ### Week 11: LLM Platforms
 * [Introduction to LLMOps with Azure](https://www.coursera.org/learn/llmops-azure/home/week/1)
@@ -185,7 +210,7 @@ Rust:
 * [MLOps Platforms: Amazon SageMaker and Azure ML-Week5](https://www.coursera.org/learn/mlops-aws-azure-duke/home/week/5)
 * [MLOps Platforms: Amazon SageMaker and Azure ML-Week4](https://www.coursera.org/learn/mlops-aws-azure-duke/home/week/4)
 
-**Weekly Demo delivery:** How would adding a cloud platform enable your application? What are some potential drawbacks in using an LLM platform?
+**Weekly Demo video prompt:** How would adding a cloud platform enable your application? What are some potential drawbacks in using an LLM platform?
 
 ### Week 12: Final Presentations
 
@@ -210,24 +235,23 @@ API are these:
 1. [Getting Started with Open Source Ecosystem](https://www.coursera.org/learn/open-source-llmops-solutions/home/week/1)
 
 
-
-#### References
+#### Machine Learning References
 
 * [Hugging Face](https://huggingface.co/)
-* [Python Fire](https://learning.oreilly.com/videos/quickstart-python-fire/040812022VIDEOPAIML/)
-* [Refactoring a Python script into a library called by Python Click CLI](https://learning.oreilly.com/videos/refactoring-a-python/04082022VIDEOPAIML/)
 * [TensorFlow Hub](https://www.tensorflow.org/hub)
 * [Classify text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
 
-#### References
+#### AutoML References
 
 * [AutoML with CreateML](https://learning.oreilly.com/videos/automl-with-apple/60424VIDEOPAIML/60424VIDEOPAIML-c1_s0/)
 * [AutoML and KaizenML](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch05.html)
 
-#### References
+#### Python References
 
 * [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
 * [databricks-zero-to-mlops](https://github.com/noahgift/databricks-zero-to-mlops)
+* [Python Fire](https://learning.oreilly.com/videos/quickstart-python-fire/040812022VIDEOPAIML/) 
+* [Refactoring a Python script into a library called by Python Click CLI](https://learning.oreilly.com/videos/refactoring-a-python/04082022VIDEOPAIML/)
 * [Container Continuous Delivery](https://learning.oreilly.com/videos/container-continuous-delivery/012632022VIDEOPAIML/)
 * [Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://learning.oreilly.com/videos/functions-to-containerized/04072022VIDEOPAIML/)
 
@@ -318,6 +342,7 @@ The discussion forums, written assignments, demo videos, and final project will 
 Late work will be accepted only in the event of an instructor-approved absence. Contact your instructor as soon as possible, at least 24 hours in advance.
 
 ### Online Communication and Interaction Expectations
+
 #### Discussion Forums
 
 The purpose of the discussion boards is to allow students to freely exchange ideas. It is imperative to remain respectful of all viewpoints and positions and, when necessary, agree to respectfully disagree. While active and frequent participation is encouraged, cluttering a discussion board with inappropriate, irrelevant, or insignificant material will not earn additional points and may result in receiving less than full credit. Frequency matters, but contributing content that adds value is paramount. Please remember to cite all sources—when relevant—in order to avoid plagiarism. Please post your viewpoints first and then discuss others’ viewpoints.
@@ -377,3 +402,4 @@ You may want to complement this course with the following certifications:
 * [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 * [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
 * [Google-Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+
