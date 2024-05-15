@@ -14,18 +14,18 @@ In this course, you will learn about the methodologies involved in operationaliz
   <br>
 
 * [Prerequisites](#prerequisites)
-* [Week 1](#week-1-introduction-to-generative-ai-concepts)
-* [Week 2](#week-2-setup-development-environment)
-* [Week 3](#week-3-interacting-with-large-language-models)
-* [Week 4](#week-4-using-local-large-language-models)
-* [Week 5](#week-5-applied-solutions-with-llms)
-* [Week 6](#week-6-extensibility-using-plugins-and-functions)
-* [Week 7](#week-7-using-retrieval-augmented-generation)
-* [Week 8](#week-8-introduction-to-python-web-frameworks-for-apis)
-* [Week 9](#week-9-devops-principles)
-* [Week 10](#week-10-deploying-machine-learning-apis)
-* [Week 11](#week-11-llm-platforms)
-* [Week 12](#week-12-final-presentations)
+* [Week 1: Introduction to Generative AI Concepts](#week-1-introduction-to-generative-ai-concepts)
+* [Week 2: Setup Development Environment](#week-2-setup-development-environment)
+* [Week 3: Interacting with Large Language Models](#week-3-interacting-with-large-language-models)
+* [Week 4: Using Local Large Language Models](#week-4-using-local-large-language-models)
+* [Week 5: Applied Solutions with LLMs](#week-5-applied-solutions-with-llms)
+* [Week 6: Extensibility Using Plugins and Functions](#week-6-extensibility-using-plugins-and-functions)
+* [Week 7: Using Retrieval Augmented Generation](#week-7-using-retrieval-augmented-generation)
+* [Week 8: Introduction to Python Web Frameworks for APIs](#week-8-introduction-to-python-web-frameworks-for-apis)
+* [Week 9: DevOps Principles](#week-9-devops-principles)
+* [Week 10: Deploying Machine Learning APIs](#week-10-deploying-machine-learning-apis)
+* [Week 11: LLM Platforms](#week-11-llm-platforms)
+* [Week 12: Final Presentations](#week-12-final-presentations)
 
   
 </details>
