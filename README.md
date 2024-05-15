@@ -4,10 +4,16 @@
 
 * Syllabus for [Artificial Intelligence for Product Innovation](https://ai.meng.duke.edu/degree) Master of Engineering
 * [AIPI 561: Operationalizing Large Language Models (LLMOPs)](https://ai.meng.duke.edu/courses#operations-core)
+* [Rubric](./rubric.md)
 
 ### Course Description
 
 In this course, you will learn about the methodologies involved in operationalizing Large Language Models. By the end of the course, you will be able to develop applications that use software development best practices with large language models.
+
+**Faculty**
+* [Prof. Noah Gift Contact & Bio](https://datascience.duke.edu/noah-gift)
+* [Prof. Alfredo Deza Contact & Bio](https://ene.duke.edu/faculty/alfredo-deza)
+
 
 <details>
   <summary><h2>Table of Contents</h2></summary>
@@ -90,16 +96,7 @@ Books:
 * [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
 
 
-## Syllabus
-
-### Optional Weekly Sync:  Friday, ET TBD Zoom recorded
-
-* [Prof. Noah Gift Contact & Bio](https://datascience.duke.edu/noah-gift)
-* [Prof. Alfredo Deza Contact & Bio](https://ene.duke.edu/faculty/alfredo-deza)
-* [Rubric](./rubric.md)
-
-## Week by Week Schedule
-
+## 12 week Syllabus
 
 ### Week 0 (Optional):  Refresh Python or Rust Skills
 
