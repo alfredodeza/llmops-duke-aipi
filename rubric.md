@@ -10,6 +10,8 @@ week schedule for the next 10 weeks with specific milestones.
 For each week, create a weekly demo. You will create a screen recording of at
 least 30 seconds where you will talk about the progress made that week.
 
+Watch the included lessons and make sure you cover the "Weekly demo delivery" question in addition to the progress on your project.
+
 * Initial Post (50%)
     * Accurately describes the week's progress on the project with a screen
       recording
@@ -27,7 +29,7 @@ You will deliver a project based on Large Language Models. For this class, you
 will use a Local Large Language Model application. These are the requirements
 for the project:
 
-1. Has to be very well documented with a README.md that explains what the main
+1. Has to be very well documented with a `README.md` that explains what the main
    purpose of the application is, how to set it up, and run it.
 1. The documentation needs to have workable examples of the application.
 1. It needs to have tests
@@ -41,9 +43,8 @@ for the project:
 
 | Assignment | Description | Points | Percentage |
 | ---------- | ----------- | ------ | ---------- |
-| Weekly demo   | Post and comment on other student posts | 100 | 50 |
-| Final Project delivery  | A fully working repository with documentation,
-tests, and an automated build | 100  | 50 |
+| Weekly demo   | Post video and comment on 2 other student posts | 100 | 50 |
+| Final Project delivery  | A fully working repository with documentation, tests, and an automated build | 100  | 50 |
 
 
 
