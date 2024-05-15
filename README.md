@@ -16,7 +16,7 @@ In this course, you will learn about the methodologies involved in operationaliz
 
 
 <details>
-  <summary><h2>Table of Contents</h2></summary>
+  <summary><b>Table of Contents</b></summary>
   <br>
 
 * [Prerequisites](#prerequisites)
