@@ -158,7 +158,7 @@ Rust:
 * [Open Source Platforms for MLOps-Week3-Deploying Hugging Face](https://www.coursera.org/learn/open-source-mlops-platforms-duke/home/week/3)
 * [Open Source Platforms for MLOps-Week4-Applied Hugging Face](https://www.coursera.org/learn/open-source-mlops-platforms-duke/home/week/4)
 
-**Weekly Demo video prompt:** Discuss your plan and idea to build out your individual project and how you will do them on time.
+**Weekly Demo video prompt:** Explain the architectural overview of your application and what are some challenges with this type of design.
 
 ### Week 6: Extensibility using plugins and functions
 
