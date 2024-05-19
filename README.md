@@ -98,6 +98,12 @@ Books:
 
 ## 12 week Syllabus
 
+These are all the resources you need for this course. 
+
+> [!IMPORTANT]
+> You are not required to watch and read every single resource. You aren't graded on consumption of content or memorization of
+> facts. Use the content as support for your project.
+
 ### Week 0 (Optional):  Refresh Python or Rust Skills
 
 **Rust**:
