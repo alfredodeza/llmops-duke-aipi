@@ -147,7 +147,7 @@ Rust:
 * [Chapter 1:  Introduction to MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch01.html)
 * [Chapter 2. MLOps Foundations](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch02.html)
 
-**Weekly Demo video prompt:** Discuss your plan and idea to build out your individual project and how you will do them on time.
+**Weekly Demo video prompt:** Explain what are some challenges for your application when working with Large Language Model output and what you will do to mitigate them.
 
 ### Week 4: Using Local Large Language Models
 * [Beginning Llamafile for Local Large Language Models (LLMs)](https://www.coursera.org/learn/llamafile-local-llm)
